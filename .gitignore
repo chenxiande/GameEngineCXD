@@ -1,0 +1,14 @@
+
+*.ipch
+*.sdf
+GameEngineCXD/.vs/GameEngineCXD/v14/.suo
+GameEngineCXD/.vs/GameEngineCXD/v15/.suo
+*.db
+*.opendb
+*.log
+*.obj
+*.idb
+*.pdb
+*.tlog
+*.ilk
+*.user
